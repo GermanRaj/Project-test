@@ -40,7 +40,7 @@ function App() {
       id: 6,
       firstname: 'Anna',
       lastname: 'Petrova',
-      age: 46
+      age: 22
     }
   ]
 
@@ -50,14 +50,14 @@ function App() {
       title: 'Apple',
       description:'pretti',
       price: 47,
-      discount: 35 
+      discount: 55 
     },
     {
       id: 2,
       title: 'Banana',
       description:'pretti',
       price: 47,
-      discount: 35 
+      discount: 48 
     },
     {
       id: 3,
