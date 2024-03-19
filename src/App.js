@@ -28,7 +28,7 @@ function App() {
       id: 4,
       firstname: 'Irina',
       lastname: 'Sokolova',
-      age: 17
+      age: 33
     },
     {
       id: 5,
