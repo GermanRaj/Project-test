@@ -7,6 +7,7 @@ export default function Product({ title, description, price, discount }) {
       <p>Description: {description}</p>
       <p>Price: {price}$</p>
       <p>Discount: {discount}%</p>
+      
     </div>
   )
 }
